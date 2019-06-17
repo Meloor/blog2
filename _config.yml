@@ -1,25 +1,25 @@
-title: Chris Bobbe
-subtitle: Web Developer
-description: Website and portfolio of Chris Bobbe, front-end web developer.
+title: 王智慧
+subtitle: 前端学习者
+description: 目前用github & jekyll搭建个人博客.
 
-author: Chris Bobbe
-email: csbobbe@gmail.com
-avatar: assets/images/avatar.jpg
+author: Meloor
+email: 13667065039@163.com
+avatar: assets/images/meloor.jpg
 
 baseurl: ""
-url: "https://chrisbobbe.github.io"
+url: "https://meloor.github.io"
 
 # Social settings
-facebook_url: https://www.facebook.com/chris.bobbe
-github_url: https://github.com/chrisbobbe
-linkedin_url: https://www.linkedin.com/in/chrisbobbe1995/
-twitter_url: https://twitter.com/chrisbobbe
+facebook_url: https://github.com/Meloor
+github_url: https://github.com/Meloor
+linkedin_url: https://github.com/Meloor
+twitter_url: https://github.com/Meloor
 
 # SEO settiongs
 google_analytics: UA-112211352-1
 
 # Build settings
-remote_theme: chrisbobbe/jekyll-theme-prologue
+remote_theme: meloor/mySecondPage
 plugins:
   - jekyll-sitemap
   - jekyll-feed
