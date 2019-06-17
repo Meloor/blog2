@@ -10,9 +10,10 @@ baseurl: ""
 url: "https://meloor.github.io"
 
 # Social settings
-facebook_url: https://github.com/Meloor
-github_url: https://github.com/Meloor
-linkedin_url: https://github.com/Meloor
+#facebook_url: https://github.com/Meloor
+#github_url: https://github.com/Meloor
+#linkedin_url: https://github.com/Meloor
+csdn_url: https://blog.csdn.net/Meloor
 twitter_url: https://github.com/Meloor
 
 # SEO settiongs
