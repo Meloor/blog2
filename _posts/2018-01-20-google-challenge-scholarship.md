@@ -1,18 +1,74 @@
 ---
 layout: post
-title: Google Challenge Scholarship
-subtitle: And Some ES5 Nostalgia
-author: Chris
+title: windows安装jekyll的过程及遇到的问题
+subtitle: 博客搭建
+author: Meloor
 ---
-I thought of starting with "Welcome to my first blog post!" because that's how I started the last three times, with some variation. I've decided enough with the ceremony, I should just dive in. But do consider yourself welcome to my humble blog.
+前端大作业要设计一个静态网页，写博客对于程序员来说是一很好的提升方式，于是想到做一个个人博客。网上查了很多教程，最后决定用github+jekyll来搭建博客。前前后后折腾了5个小时，终于把jekyll安装完毕。下面直接上教程：
 
-I've zoomed through the Grow with Google Challenge Scholarship on Udacity, probably faster than I should have. We're allowed three months, and I finished in less than a week since I have so much time on my hands. Still, if I hope to be selected for the next step, the [Mobile Web Specialist scholarship](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024), I need to stay active on the forums and help other people out. This will be a good way for me to review the material, so it sounds like a plan.
+参考博客：
 
-I learned how to make an app offline-first using service workers. This helps mobile users a lot because some content will load (maybe old content, but still) in low or no connection areas. No more "lie-fi"!
+https://blog.csdn.net/mouday/article/details/79300135
 
-The rest of the course was about all the new features in ES6. I've been a fan for as long as I've worked with JavaScript, since I started after ES6 was released. Strangely, I got a bit frustrated with the new object method definition shorthand. The old way:
+https://segmentfault.com/q/1010000013418668/a-1020000013529937
 
-```
+https://blog.csdn.net/w2i0l1l5y/article/details/82662224
+
+国内镜像官网:https://gems.ruby-china.com/
+
+首先下载ruby
+rubyinstall官网：https://rubyinstaller.org/downloads/
+
+
+1.安装ruby
+双击运行文件rubyinstaller-2.2.3-x64exe，我这里用的是64位
+
+安装的时候注意勾选把ruby添加到路径PATH
+
+建议安装在C盘，以避免不必要的问题
+
+2.安装devkit
+官网下载 DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe
+
+翻到最后可以找到下面的页面
+
+a、解压
+运行 DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe文件，解压到C盘
+	C:/Devkit
+b、初始化
+cmd中cd到C:/Devkit目录下执行下面命令
+	ruby dk.rb init
+#生成config.yml，这里会检查将要添加DevKit支持的Ruby列表，只支持通过RubyInstaller安装的Ruby
+#如果这里列出的Ruby与你的要求不符，可以手动修改
+
+c、安装
+ruby dk.rb review  #检查要添加DevKit支持的Ruby列表是否有误，可以略过
+ruby dk.rb install
+
+d、检查是否安装成功
+> gem install rdiscount --platform=ruby
+
+3.安装rubygems
+官网地址：https://rubygems.org/pages/download
+
+解压后拷贝到C盘，cd到C:\rubygems-3.0.3目录下
+
+安装，
+ruby setup.rb
+
+4.更改源
+移除原来的
+
+C:\Devkit>gem sources  --remove https://rubygems.org
+ 添加国内镜像
+
+C:\Devkit>gem sources --add http://gems.ruby-china.com/
+source http://gems.ruby-china.com/ already present in the cache
+
+4.安装jekyll
+cd到C:\rubygems-3.0.3目录下
+gem install jekyll
+
 myObj = {
   name: "foo",
   hairColor: "brown",

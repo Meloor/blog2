@@ -1,6 +1,6 @@
 ---
-title: My Skills
-subtitle: Here are some things I can do.
+title: 我的技能
+subtitle: 我在学的和我会的.
 icon: fa-graduation-cap
 permalink: /skills
 order: 2

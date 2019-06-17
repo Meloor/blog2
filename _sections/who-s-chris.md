@@ -1,11 +1,11 @@
 ---
-title: Who's Chris?
+title:我是谁
 icon: fa-question
 order: 2
 ---
 
 <script type="text/javascript" src="assets/js/gem-download-count.js" defer></script>
 
-I'm a front-end web developer!
+我是一个前端学习者！
 
-I'm currently making lots of open-source web templates into Jekyll themes so more people can use them. The theme you're looking at, my [Jekyll version](https://github.com/chrisbobbe/jekyll-theme-prologue) of [Prologue by HTML5 UP](https://html5up.net/prologue), has <a href="https://rubygems.org/gems/jekyll-theme-prologue"><span id="download-counter">[unavailable]</span> gem downloads</a>! I also make intuitive user interfaces with Angular and React. I started coding when I was nine and kept it up through college where I did an English degree. My creative and analytical skills might be a great fit for your project, especially if it means taking something old and clunky and making it shiny, responsive, and accessible.
+我来自三峡大学17级数字媒体技术。不知不觉大二就快过完了，总得做点什么去实现自己。在这个过程中，我发现了前端的魅力，让更多人知道你多的网站是一件很有成就感的事情。那么就从这个小博客开始吧。
