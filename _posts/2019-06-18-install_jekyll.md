@@ -46,9 +46,9 @@ cmd中cd到C:/Devkit目录下执行下面命令
 	`> gem install rdiscount --platform=ruby`
 
 ## 3.安装rubygems
+
 官网地址：https://rubygems.org/pages/download
-解压后拷贝到C盘，cd到`C:\rubygems-3.0.3`目录下
-安装，
+解压后拷贝到C盘，cd到`C:\rubygems-3.0.3`目录下安装
 	`ruby setup.rb`
 
 ## 4.更改源
@@ -57,8 +57,8 @@ cmd中cd到C:/Devkit目录下执行下面命令
 	`C:\Devkit>gem sources  --remove https://rubygems.org`
 	
 ### b)添加国内镜像
-`C:\Devkit>gem sources --add http://gems.ruby-china.com/
-`source http://gems.ruby-china.com/ already present in the cache``
+`C:\Devkit>gem sources --add http://gems.ruby-china.com/`
+`source http://gems.ruby-china.com/ already present in the cache`
 
 ## 5.安装jekyll
 cd到C:\rubygems-3.0.3目录下
