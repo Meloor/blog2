@@ -1,77 +1,18 @@
 ---
 layout: post
-title: windows安装jekyll的过程及遇到的问题
-subtitle: 博客搭建
+title: 一个清晨起始
+subtitle: 
 author: Meloor
 ---
-	前端大作业要设计一个静态网页，写博客对于程序员来说是一很好的提升方式，于是想到做一个个人博客。
-网上查了很多教程，最后决定用github+jekyll来搭建博客。前前后后折腾了5个小时，终于把jekyll安装完毕。
-下面直接上教程：
 
-## 参考博客：
+#一个清晨起始
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ————2019.08.06
 
-* [博客一](https://blog.csdn.net/mouday/article/details/79300135)
-* [博客二](https://segmentfault.com/q/1010000013418668/a-1020000013529937)
-* [博客三](https://blog.csdn.net/w2i0l1l5y/article/details/82662224)
+------
 
------------------
+&emsp;&emsp;今天是2019年暑假中的普通的一天，也是特别的一天。昨天刚刚考过科三，总算在繁忙的暑假中歇了口气，下午五点就早早的躺下，没有任何思绪，很快就入眠了。在梦里，我梦见了我参加工作，然后升职当了部门的主管。这或许是因为平日里还在思考**该考研还是找工作**的缘故吧。这确实是每个刚进入大三的人都要思考的问题。尽管家里的压力来看更倾向于我直接参加工作，但是我还是决定趁现在学习成绩还不错**去考一把**，无论考没考上，这个决定一定不会让你将来后悔。
+&emsp;&emsp;凌晨六点，平日里闹钟都吵不醒的我，居然早早的醒了。起床，洗漱，整理好书包，早早的来到了工作室，一杯清咖，打开电脑，花了个把小时，把[git](https://www.cnblogs.com/fqlife/p/8493745.html)复习了一遍，才开始了这篇随笔。此时最大的感触就是，任何需要记忆的知识都整理成博客，复习时才会事半功倍，这句话不是空穴来风。
+&emsp;&emsp;前面说道今天是特别的一天，它的特别之处就是，这是我自期末复习开始以来的第一次早起。五月份尝到了早起的甜头的我，终于时隔两个多月，再次的开启的早起的大门。这绝对是我暑假开启加速模式的一天，非常有纪念意义，所以我把它记录下来，作为我今天的起始。
+&emsp;&emsp;今天开始好好[补题](https://ac.nowcoder.com/acm/contest/886#question)呀！冲!
 
-## 1.首先下载ruby
-
-rubyinstall[官网](https://rubyinstaller.org/downloads/)
-
-## 2.安装ruby
-
-双击运行文件rubyinstaller-2.2.3-x64exe，我这里用的是64位。安装的时候注意勾选把ruby添加到路径PATH。建议安装在C盘，以避免不必要的问题
-
-## 3.安装devkit
-
-官网下载 DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe，翻到最后可以找到下载的页面。
-
-### a)解压
-
-运行 DevKit-mingw64-64-4.7.2-20130224-1432-sfx.exe文件，解压到C盘`C:/Devkit`
-	
-### b)初始化
-
-cmd中cd到C:/Devkit目录下执行下面命令`ruby dk.rb init`
-生成config.yml，这里会检查将要添加DevKit支持的Ruby列表，只支持通过RubyInstaller安装的Ruby
-如果这里列出的Ruby与你的要求不符，可以手动修改
-
-### c)检查(可略过)
-
-检查要添加DevKit支持的Ruby列表是否有误
-
-	`ruby dk.rb review`  
-	
-### d)安装
-
-	`ruby dk.rb install`
-
-### e)检查是否安装成功
-
-	`> gem install rdiscount --platform=ruby`
-
-## 4.安装rubygems
-
-[官网地址](https://rubygems.org/pages/download)
-解压后拷贝到C盘，cd到`C:\rubygems-3.0.3`目录下安装`ruby setup.rb`
-
-## 5.更改源
-
-### a)移除原来的
-
-	`C:\Devkit>gem sources  --remove https://rubygems.org`
-	
-### b)添加国内镜像
-
-国内镜像[官网](https://gems.ruby-china.com/)
-
-`C:\Devkit>gem sources --add http://gems.ruby-china.com/`
-
-输出:`source http://gems.ruby-china.com/ already present in the cache`
-
-## 6.安装jekyll
-
-cd到C:\rubygems-3.0.3目录下`gem install jekyll`
 	
