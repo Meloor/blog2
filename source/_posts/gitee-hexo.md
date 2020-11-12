@@ -1,5 +1,6 @@
 ---
 title: gitee+hexo
+top_img: img/1.jpg
 date: 2020-11-11 17:59:15
 tags: [gitee,hexo]
 ---
