@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Meloor's Blog
+subtitle: java engeneer learning...
 description: ''
-keywords:
-author: John Doe
-language: en
+keywords: #'java,c++,python'
+author: Meloor
+language: zh-cn #en #
 timezone: ''
 
 # URL

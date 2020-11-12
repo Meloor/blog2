@@ -1,14 +1,9 @@
 ---
 title: gitee+hexo
-top_img: img/1.jpg
+top_img: /imgs/bg1.jpg
 date: 2020-11-11 17:59:15
 tags: [gitee,hexo]
 ---
-## 镇楼/斜眼笑
-![图片](gitee-hexo/2.jpg)
-<!-- ![图片](2.jpg)
-![图片](gitee-hexo/meloor.jpg)
-![图片](meloor.jpg) -->
 ## jekyll的不足
 * gitee上使用jekyll效果完全和Github上不同，必须要在本地环境编译再push, 而github自带jekyll引擎，可以直接在github原码上直接修改 
 * https://www.cnblogs.com/FLY_DREAM/p/13669729.html
