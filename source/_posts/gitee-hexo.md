@@ -3,6 +3,9 @@ title: gitee+hexo
 top_img: /imgs/bg1.jpg
 date: 2020-11-11 17:59:15
 tags: [gitee, hexo]
+categories:
+  - web
+  - front-end
 ---
 
 ## jekyll 的不足
@@ -79,3 +82,24 @@ https://blog.csdn.net/GAI159/article/details/105128186
 部署教程：https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/quick-start.html#%E5%AE%89%E8%A3%85
 
 更新内容后，直接刷新浏览器，不行的话重新启动服务器再刷新浏览器
+
+### 改个人信息
+
+Author, title
+\_config.yml 文件
+
+### categories 怎么用
+
+多级分类
+
+https://www.cnblogs.com/seayxu/archive/2016/01/25/5156669.html
+
+```
+title: gitee+hexo
+top_img: /imgs/bg1.jpg
+date: 2020-11-11 17:59:15
+tags: [gitee, hexo]
+categories: 
+- web
+- front-end
+```
