@@ -12,6 +12,7 @@
     "version": "5.2.0"
   },
   "dependencies": {
+    "gitalk": "^1.7.0",
     "hexo": "^5.0.0",
     "hexo-asset-image": "https://github.com/7ym0n/hexo-asset-image",
     "hexo-deployer-git": "^2.1.0",
