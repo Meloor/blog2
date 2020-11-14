@@ -4,11 +4,11 @@
 
 # Site
 title: Meloor's Blog
-subtitle: java engeneer learning...
+subtitle: Java learning...
 description: ''
 keywords: #'java,c++,python'
 author: Meloor
-language: zh-cn #en #
+language: en #zh-cn #en
 timezone: ''
 
 # URL
