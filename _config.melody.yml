@@ -225,8 +225,8 @@ disqus:
 gitalk:
   enable: true
   client_id: f758d3c1d38fb96ad7f4
-  client_secret: 6cd90512478bce36458c947c91dfd479d2697a17
-  repo: git@gitee.com:Meloor/BlogTalks.git
+  client_secret: 6780580605c416c988c57b7dc8c48cfa2da49311
+  repo: BlogTalks #写仓库名 BlogTalks
   owner: Meloor
   admin: Meloor
 
