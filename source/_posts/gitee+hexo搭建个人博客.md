@@ -1,5 +1,5 @@
 ---
-title: gitee+hexo
+title: gitee+hexo搭建个人博客
 top_img: /imgs/bg1.jpg
 date: 2020-11-11 17:59:15
 tags: [gitee, hexo]
