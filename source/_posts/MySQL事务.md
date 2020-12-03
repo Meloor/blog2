@@ -4,7 +4,7 @@ date: 2020-11-14 22:16:35
 tags: [MySQL]
 categories:
   - web
-  - MySQL
+  - 数据库
 ---
 
 [参考博客](https://blog.csdn.net/w_linux/article/details/79666086)讲的非常清楚，下面是补充的笔记
