@@ -18,8 +18,8 @@ date: 2020-11-12 22:20:50
 - gitee：[https://gitee.com/Meloor](https://gitee.com/Meloor)
 - github：[https://github.com/Meloor](https://github.com/Meloor)
 - 期望职位：Java 实习
-- 期望薪资：6k+ (房补餐补可降低要求)
-- 期望城市：北京
+<!-- - 期望薪资：6k+ (房补餐补可降低要求)
+- 期望城市：北京 -->
 
 ---
 
