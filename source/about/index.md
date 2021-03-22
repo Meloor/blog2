@@ -17,7 +17,7 @@ date: 2020-11-12 22:20:50
 - 个人博客：[https://meloor.gitee.io](https://meloor.gitee.io)
 - gitee：[https://gitee.com/Meloor](https://gitee.com/Meloor)
 - github：[https://github.com/Meloor](https://github.com/Meloor)
-- 期望职位：Java 实习
+- 期望职位：数据分析实习、Java 实习
 
 <!-- - 期望薪资：6k+ (房补餐补可降低要求) -->
 <!-- - 期望城市：北京 -->
@@ -36,8 +36,17 @@ date: 2020-11-12 22:20:50
   - **社会实践：** 疫情防控志愿者、班级副班长、英语家教、学生会外联部干事/副部长、Cocos2dx 游戏引擎培训讲师
 
 ---
+## 项目经历-数据分析
+### 就业数据分析项目-Python(2021.03-2021.03)　　
+岗位：数据分析、数据可视化 使用技术：Python pandas/geopandas库 
+使用工具：Pycharm/Excel
+实现功能：分析学院近三年就业数据(excel表格)，绘制就业职位相关性分布、行业分布、城市分布、去向分布、去向趋势以及薪资分布等图表，此外还建立了综合评价模型来评估各专业就业质量。
 
-## 项目经历
+### 大黄蜂去向预测项目-Python(2021.02-2021.02)　
+岗位：数据分析、数据可视化 使用技术：Python pandas/geopandas库 
+使用工具：Pycharm/Excel
+实现功能：分析整理表格数据，绘制大黄蜂空间分布图，并使用灰色预测模型预测其未来范围走势。
+## 项目经历-Java
 
 ### 服装电商项目-东软集团-Java 校内实习(2020.7-8)
 

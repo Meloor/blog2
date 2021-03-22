@@ -131,7 +131,7 @@ cdn:
 avatar:  /imgs/meloor3.png
 
 # avatar: https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4109802972,297162689&fm=111&gp=0.jpg
-top_img: /imgs/lucky.jpg # false or url of img
+top_img: /imgs/bg2.jpg # false or url of img
 
 top_img_height: 60 # best range: 60 - 100
 
