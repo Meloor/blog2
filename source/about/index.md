@@ -8,16 +8,16 @@ date: 2020-11-12 22:20:50
 <!-- ![头像](/imgs/me.jpg) -->
 <!-- - ![头像](../imgs/me.jpg) -->
 
-- 姓名：王智慧
-- 性别：男
-- 生日：1999-03-18
+- **姓名**：王智慧
+- **性别**：男
+- **生日**：1999-03-18
 <!-- - 电话：13317200597 -->
-- 邮箱：meloor99@163.com
-- 博客(CSDN)：[https://blog.csdn.net/Meloor](https://blog.csdn.net/Meloor)
-- 个人博客：[https://meloor.gitee.io](https://meloor.gitee.io)
-- gitee：[https://gitee.com/Meloor](https://gitee.com/Meloor)
-- github：[https://github.com/Meloor](https://github.com/Meloor)
-- 期望职位：数据分析实习、Java 实习
+- **邮箱**：meloor99@163.com
+- **博客(CSDN)**：[https://blog.csdn.net/Meloor](https://blog.csdn.net/Meloor)
+- **个人博客**：[https://meloor.gitee.io](https://meloor.gitee.io)
+- **gitee**：[https://gitee.com/Meloor](https://gitee.com/Meloor)
+- **github**：[https://github.com/Meloor](https://github.com/Meloor)
+- **期望职位**：数据分析实习、Java 实习
 
 <!-- - 期望薪资：6k+ (房补餐补可降低要求) -->
 <!-- - 期望城市：北京 -->
@@ -38,40 +38,41 @@ date: 2020-11-12 22:20:50
 ---
 ## 项目经历-数据分析
 ### 就业数据分析项目-Python(2021.03-2021.03)　　
-岗位：数据分析、数据可视化 使用技术：Python pandas/geopandas库 
-使用工具：Pycharm/Excel
-实现功能：分析学院近三年就业数据(excel表格)，绘制就业职位相关性分布、行业分布、城市分布、去向分布、去向趋势以及薪资分布等图表，此外还建立了综合评价模型来评估各专业就业质量。
+**岗位**：数据分析、数据可视化 使用技术：Python pandas/geopandas库 
+**使用工具**：Pycharm/Excel
+**实现功能**：分析学院近三年就业数据(excel表格)，绘制就业职位相关性分布、行业分布、城市分布、去向分布、去向趋势以及薪资分布等图表，此外还建立了综合评价模型来评估各专业就业质量。
 
 ### 大黄蜂去向预测项目-Python(2021.02-2021.02)　
-岗位：数据分析、数据可视化 使用技术：Python pandas/geopandas库 
-使用工具：Pycharm/Excel
-实现功能：分析整理表格数据，绘制大黄蜂空间分布图，并使用灰色预测模型预测其未来范围走势。
+**岗位**：数据分析、数据可视化 使用技术：Python pandas/geopandas库 
+**使用工具**：Pycharm/Excel
+**实现功能**：分析整理表格数据，绘制大黄蜂空间分布图，并使用灰色预测模型预测其未来范围走势。
 ## 项目经历-Java
 
 ### 服装电商项目-东软集团-Java 校内实习(2020.7-8)
 
-岗位：后端开发、项目组长、技术指导、前端部分页面设计与连接后端
-实现功能：登录注册、商品展示与搜索、购物车、订单；商品管理、订单管理、用户管理
-使用技术：SpringBoot 整合 Mybatis、vue、前后端分离
-使用工具：idea/vscode/gitee/navicat/postman
-用户网址: http://49.234.224.118:8090/  
-管理员后台网址: http://49.234.224.118:8090/manager/
-gitee 项目地址：https://gitee.com/Look-isMe
+**岗位**：后端开发、项目组长、技术指导、前端部分页面设计与连接后端
+**实现功能**：登录注册、商品展示与搜索、购物车、订单；商品管理、订单管理、用户管理
+**使用技术**：SpringBoot 整合 Mybatis、vue、前后端分离
+**使用工具**：idea/vscode/gitee/navicat/postman
+**用户网址**: http://49.234.224.118:8090/  
+**管理员后台网址**: http://49.234.224.118:8090/manager/
+**gitee 项目地址**：https://gitee.com/Look-isMe
 
+## 其他项目
 ### 电商评论主题分析项目(2020.3)
 
-实现功能：使用 LDA 模型对电商评论进行主题分析、情感分类后再量化，得到积极和消极的主题词集。
-使用技术：Python、nltk 库、nlp
-博客：[https://blog.csdn.net/Meloor/article/details/107008229](https://blog.csdn.net/Meloor/article/details/107008229)
-gitee 项目地址：[https://gitee.com/Meloor/LDATest](https://gitee.com/Meloor/LDATest)
+**实现功能**：使用 LDA 模型对电商评论进行主题分析、情感分类后再量化，得到积极和消极的主题词集。
+**使用技术**：Python、nltk 库、nlp
+**博客**：[https://blog.csdn.net/Meloor/article/details/107008229](https://blog.csdn.net/Meloor/article/details/107008229)
+**gitee 项目地址**：[https://gitee.com/Meloor/LDATest](https://gitee.com/Meloor/LDATest)
 
 ### 骨骼绑定插件项目(2019.6)
 
-实现功能：建模与动画制作软件 Maya 的骨骼绑定插件——腰部绑定
-使用技术：Maya-Python 接口、Qt 技术
-使用工具：Maya/QtDesigner
-博客：[https://blog.csdn.net/Meloor/article/details/102597491](https://blog.csdn.net/Meloor/article/details/102597491)
-github 项目地址：[https://github.com/Meloor/MayaPlugins](https://github.com/Meloor/MayaPlugins)
+**实现功能**：建模与动画制作软件 Maya 的骨骼绑定插件——腰部绑定
+**使用技术**：Maya-Python 接口、Qt 技术
+**使用工具**：Maya/QtDesigner
+**博客**：[https://blog.csdn.net/Meloor/article/details/102597491](https://blog.csdn.net/Meloor/article/details/102597491)
+**github 项目地址**：[https://github.com/Meloor/MayaPlugins](https://github.com/Meloor/MayaPlugins)
 
 ---
 
@@ -84,17 +85,16 @@ github 项目地址：[https://github.com/Meloor/MayaPlugins](https://github.com
 
 ## 技能清单
 
-- 语言：Java/C++/Python
-- 后端框架：SpringBoot/Mybatis
-- 后端工具：Postman
-- 前端框架：Vue/ElementUI
-- 数据库：MySQL
-- 版本管理工具：Git
+0. **算法基础**：掌握基本的数据结构和算法，CCF-CSP认证排名全国Top5%，蓝桥杯国二
+1. **Web开发**：掌握SpringBoot,Mybatis,Vue,ElementUI,前后端分离,MySQL;工具：Postman,Git
+2. **数据分析**：掌握Python pandas,geopandas,matplotlib库
+3. **游戏开发**：掌握Cocos2dx/Unity,并设计过小游戏
+4. **团队协作**：实习担任项目组长，分工合理，考核优秀
 
 ---
 
 ## 自我评价
 
-- 个人层面：本人擅长逻辑分析，思考独立，重视规划，工作认真严谨, 学习能力强，具有钻研精神。
-- 社会层面：本人性格沉稳有主见，待人真诚，有良好的组织和沟通能力, 团队意识强，具有很强的责任感。
-- 生活层面：本人也有不少兴趣爱好，如中国象棋、视频剪辑、听书、健身等，象棋水平在天天象棋 Top20%。
+- **个人层面**：本人擅长逻辑分析，思考独立，重视规划，工作认真严谨, 学习能力强，具有钻研精神。
+- **社会层面**：本人性格沉稳有主见，待人真诚，有良好的组织和沟通能力, 团队意识强，具有很强的责任感。
+- **生活层面**：本人也有不少兴趣爱好，如中国象棋、视频剪辑、听书、健身等，象棋水平在天天象棋 Top20%。
