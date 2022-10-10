@@ -1,12 +1,16 @@
 ---
 title: gitee+hexo搭建个人博客
-top_img: /imgs/bg1.jpg
+top_img: /imgs/bg2.jpg
+# top_img: ./gitee+hexo搭建个人博客/1.png
 date: 2020-11-11 17:59:15
 tags: [gitee, hexo]
 categories:
   - web
   - front-end
 ---
+## Reference
+[如何利用好Github pages](https://www.jianshu.com/p/7c013faaaba1)  
+
 
 ## jekyll 的不足
 
@@ -20,7 +24,8 @@ categories:
 ### hexo init 卡住
 
 https://www.jianshu.com/p/a409601734f1
-![图片](gitee-hexo/1.png)
+<!-- ![图片](gitee-hexo搭建个人博客/1.png) -->
+![图片](./gitee+hexo搭建个人博客/1.png)
 
 ```
 hexo init blog
