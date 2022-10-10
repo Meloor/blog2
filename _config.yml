@@ -4,7 +4,8 @@ description: 目前用github & jekyll搭建个人博客.
 
 author: Meloor
 email: meloor99@163.com
-avatar: assets/images/me.jpg
+#avatar: assets/images/me.jpg
+avatar: assets/images/meloor.jpg
 
 baseurl: ""
 url: "https://meloor.github.io"
