@@ -15,7 +15,8 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 # url: http://example.com
 # root: / 
-url:  http://meloor.gitee.io/
+url:  http://meloor.gitee.io/ #仓库名为Meloor(与账户名同名)
+# url:  http://meloor.gitee.io/blog/ #blog为gitee仓库名
 root: / # 点击“home"跳转的目录
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -108,6 +109,8 @@ theme: melody
 deploy:
   #type: ''
   type: git                       # type为git
+  # 编译后静态页面文件推送到该仓库的gh-pages分支，后面也只部署该分支
   #repo: git@https://gitee.com/Meloor/blog.git  # 编译后静态文件的仓库URL 不是原码的URL
   repo: git@gitee.com:Meloor/meloor.git # 注意是ssh方式
-  branch: master
+  branch: gh-pages
+  # branch: master

@@ -10,6 +10,8 @@ hexo个人博客markdown源码
 1. clone该仓库
 2. blog目录下安装hexo依赖包：
 >npm install
+>yarn #代替npm
+>yarn global add hexo #全局安装hexo, 命令行hexo指令变为绿色
 3. 部署hexo
 >hexo clean#清除
 hexo generate # 生成静态网页
